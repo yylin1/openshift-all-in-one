@@ -1,0 +1,1 @@
+# openshift-all-in-one
